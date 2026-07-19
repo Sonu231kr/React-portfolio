@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+
+@theme {
+  --font-display:'Lucida Sans',
+    'Lucida Sans Regular',
+    'Lucida Grande',
+    'Lucida Sans Unicode',
+    Geneva,
+    Verdana,
+    sans-serif;
+}
+
+
+*{
+
+ 
+}
+
+body{
+  box-sizing: border-box;
+  background-color: black;
+  color: white;
+  
+}
