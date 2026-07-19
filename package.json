@@ -1,15 +1,19 @@
 {
   "name": "vite-portfolio",
+  "homepage": "https://Sonu231kr.github.io/React-portfolio/",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "lint": "oxlint",
     "preview": "vite preview"
   },
   "dependencies": {
+    "gh-pages": "^6.3.0",
     "lucide-react": "^1.25.0",
     "react": "^19.2.7",
     "react-dom": "^19.2.7"
