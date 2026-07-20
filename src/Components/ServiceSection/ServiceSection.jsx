@@ -1,16 +1,12 @@
 import React from 'react'
 import CardService from './CardService'
+import ServiceNavbar from './ServiceNavbar'
 
-function ServiceSection() {
+function ServiceSection(props) {
   return (
-    <div className='py-10 px-30'>
-         
-         <div className='flex flex-col items-center '>
-            <p className='leading-3'>SERVICES</p>
-            <h1 className='text-2xl'>What I do.</h1>
-         </div>
-
-        <CardService/>
+    <div className=' flex flex-col gap-10 py-10 px-30 '>       
+        <ServiceNavbar />
+        <CardService users = {props.users}/>
     </div>
   )
 }

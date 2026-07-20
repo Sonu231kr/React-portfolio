@@ -1,10 +1,26 @@
-import React from 'react'
 
-function CardService() {
+import React from 'react'
+import CardContent from './CardContent'
+function CardService(props) {
+
+  console.log(props.users)
+
   return (
-    <div>CardService
-     <h1>hello im h1</h1>
-    </div>
+    <div className=' p-1 flex gap-10 justify-between '>
+       
+
+          {props.users.map(function(elem,index){
+
+            return  <CardContent Key ={index}  role = {elem.role} info ={elem.info} />
+
+          })}
+
+
+         
+
+     </div>
+
+  
   )
 }
 
