@@ -23,3 +23,6 @@ body{
   color: white;
   
 }
+#Footerprojectcard::-webkit-scrollbar{
+  display: none;
+}

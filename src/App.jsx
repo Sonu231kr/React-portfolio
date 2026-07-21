@@ -4,12 +4,14 @@ import HeaderSection from './Components/HeaderSection/HeaderSection'
 import IntroSection from './Components/IntroSection/IntroSection'
 import Section3 from './Components/Section3/Section3'
 import ServiceSection from './Components/ServiceSection/ServiceSection'
+import ProjectSection from './Components/projectSection/ProjectSection'
 
 function App() {
 
   const users =[
     {
-      role: "web Development",
+
+      role: "Web Development",
         info : "I use my knowledge of various programming language such as HTML5,CSS , JAVASCRIPST ,TAILWIND CSS to build digital solution for users."
     },
     {
@@ -30,6 +32,7 @@ function App() {
          <IntroSection />
          <Section3 />
          <ServiceSection  users = {users}/>
+         <ProjectSection />
 
     </div>
   )
