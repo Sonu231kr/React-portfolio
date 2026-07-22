@@ -5,6 +5,8 @@ import IntroSection from './Components/IntroSection/IntroSection'
 import Section3 from './Components/Section3/Section3'
 import ServiceSection from './Components/ServiceSection/ServiceSection'
 import ProjectSection from './Components/projectSection/ProjectSection'
+import AboutSection from './Components/AboutSection/AboutSection'
+import SkillSection from './Components/SkillSection/SkillSection'
 
 function App() {
 
@@ -33,7 +35,8 @@ function App() {
          <Section3 />
          <ServiceSection  users = {users}/>
          <ProjectSection />
-
+         <AboutSection />
+        <SkillSection />
     </div>
   )
 }
