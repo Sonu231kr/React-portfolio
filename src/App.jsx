@@ -7,6 +7,7 @@ import ServiceSection from './Components/ServiceSection/ServiceSection'
 import ProjectSection from './Components/projectSection/ProjectSection'
 import AboutSection from './Components/AboutSection/AboutSection'
 import SkillSection from './Components/SkillSection/SkillSection'
+import ContactSection from './Components/ContactSection/ContactSection'
 
 function App() {
 
@@ -37,6 +38,7 @@ function App() {
          <ProjectSection />
          <AboutSection />
         <SkillSection />
+        <ContactSection />
     </div>
   )
 }
