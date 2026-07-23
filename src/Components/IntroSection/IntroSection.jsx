@@ -5,7 +5,7 @@ function IntroSection() {
   return (
     <div className='flex flex-col justify-between gap-15 pt-20 px-50 items-center dark:text-white'>
         <div className='flex flex-col justify-between items-center'>
-            <h1 className='text-7xl font-bold leading-25'>Frontend Developer</h1>
+            <h1 className='text-7xl font-bold  leading-25'>Frontend Developer</h1>
             <p className='text-2xl font-light'> Java Script, React Js, Html, Taliwind Css, Css, Mysql </p>
         </div>
 

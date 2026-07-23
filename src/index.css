@@ -11,16 +11,14 @@
     Geneva,
     Verdana,
     sans-serif;
+
 }
-
-
-
 
 body{
   box-sizing: border-box;
-  
-  
 }
 #Footerprojectcard::-webkit-scrollbar{
   display: none;
 }
+
+

@@ -4,7 +4,7 @@ import FooterCnt from './FooterCnt'
 
 function ContactSection() {
   return (
-    <div className='flex flex-col items-center gap-20  px-30 pt-30 dark:text-white'>
+    <div className='flex flex-col items-center gap-10  px-30 pt-30  dark:text-white'>
         <HeaderCnt/>
         <FooterCnt />
     </div>

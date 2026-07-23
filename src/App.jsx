@@ -8,6 +8,8 @@ import ProjectSection from './Components/projectSection/ProjectSection'
 import AboutSection from './Components/AboutSection/AboutSection'
 import SkillSection from './Components/SkillSection/SkillSection'
 import ContactSection from './Components/ContactSection/ContactSection'
+import FooterSection from './Components/FooterSection/FooterSection'
+import LastlineCnt from './Components/LastLineCnt/LastlineCnt'
 
 function App() {
 
@@ -39,6 +41,8 @@ function App() {
          <AboutSection />
         <SkillSection />
         <ContactSection />
+        <FooterSection />
+      <LastlineCnt />
     </div>
   )
 }

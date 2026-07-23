@@ -4,7 +4,7 @@ import RighFoot from './RighFoot'
 
 function FooterCnt() {
   return (
-    <div className='flex gap-20 bg-amber-200 p-5 justify-between w-full '>
+    <div  className=' flex p-10 justify-between w-full '>
       <LeftFoot />
       <RighFoot />
     </div>

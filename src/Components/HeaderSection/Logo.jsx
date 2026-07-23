@@ -6,7 +6,7 @@ function Logo() {
             <div><WindArrowDown className='size-10 text-blue-400' /></div>
             <div className='flex gap-0.5 flex-col dark:text-white'>
                 <h1 className='text-2xl font-display'>Mr.SonuDas</h1>
-                <p className='text-xs leading-1.5  font-display text-indigo-50'>Frontend Developer</p>
+                <p className='text-xs leading-1.5  font-display text-indigo-400 dark:text-white'>Frontend Developer</p>
             </div>
         
         </div>
