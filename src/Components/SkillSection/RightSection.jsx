@@ -2,7 +2,7 @@ import React from 'react'
 
 function RightSection() {
     return (
-        <div className='flex gap-10 flex-wrap w-1/3 bg-black text-white'>
+        <div className='flex gap-10 flex-wrap w-1/3'>
             <a href="" className='py-3 px-8 h-15 font-medium text-sm border border-blue-400 rounded-full flex justify-center items-center'>HTML5</a>
             <a href="" className='py-3 px-8 font-medium text-sm border border-blue-400 rounded-2xl h-15 flex justify-center items-center'>JAVASCRIPT</a>
             <a href="" className='p-3  font-medium text-sm border border-blue-400 rounded-full h-18 w-19 flex items-center justify-center'>CSS3</a>

@@ -10,7 +10,7 @@ function LeftContent() {
 
 
                 <div className='h-full w-full rounded-full border border-blue-400 flex justify-center items-center '>
-                    <img src="https://scontent.cdninstagram.com/v/t51.82787-19/752509117_18089608478639451_5993870484513379451_n.jpg?_nc_cat=102&ccb=7-5&_nc_sid=bf7eb4&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLnd3dy4xMDgwLkMzIn0%3D&_nc_ohc=NK9xx7jeLSsQ7kNvwEjhqVX&_nc_oc=AdpJjv6sCU-jlrrltm_WbSjQIsHeeuJU-AO290bvqEf_B_wG5iKK6QOhz0TMnFHsBXy8JpvHVtDxSjAYRvtUxWLs&_nc_zt=24&_nc_ht=scontent.cdninstagram.com&_nc_gid=JcTMkz8WWYp4R5Q6nJEJFg&_nc_ss=7b6a8&oh=00_AQAzEj1oEkojkh3AHUBoJFM3WLabjzhB5hezZPlD_WaQIQ&oe=6A663C47" alt="" className='overflow-hidden rounded-full object-fill' />
+                    <img src="https://pps.whatsapp.net/v/t61.24694-24/746420621_1313955600728368_4873168480876193933_n.jpg?ccb=11-4&oh=01_Q5Aa5AHJhLwcPs_E7q2jdnAkXcyIfC3djJ4-CfwDN2VrBjithA&oe=6A6E13D6&_nc_sid=5e03e0&_nc_cat=100" alt="" className='overflow-hidden rounded-full object-fill' />
                 </div>
             </div>
 
